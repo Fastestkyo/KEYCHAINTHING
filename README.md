@@ -1,4 +1,4 @@
-# KEYCHAINTHING
+# KEYCHAIN THING
 
 **Slack Username:** @karnx (U082Z7WDHSQ)
 
