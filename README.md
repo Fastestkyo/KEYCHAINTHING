@@ -18,10 +18,10 @@ It features:
 
 ## 📸 Images
 
-![image1](https://github.com/user-attachments/assets/8413ff7a-0e72-46a0-87f6-6a32a233bb29)  
-![image2](https://github.com/user-attachments/assets/31ce09f3-6db7-4901-8fce-2e61e297b9a7)  
-![image3](https://github.com/user-attachments/assets/5c663b10-daf5-4836-9b30-73d7032491dd)  
-![image4](https://github.com/user-attachments/assets/def5d1bc-d916-4872-9222-61aeb7f617fa)
+![image](https://github.com/user-attachments/assets/a8f50b55-c4e5-408c-874f-33a100ea2193)
+![image](https://github.com/user-attachments/assets/cee5c36e-686f-4f5a-b181-6a13a2379040)
+![image](https://github.com/user-attachments/assets/106b07ca-0d1b-406d-8dbe-3c24876c5664)
+![image](https://github.com/user-attachments/assets/df74ab6a-7e85-44da-b601-e3f67e88890e)
 
 ---
 
