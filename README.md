@@ -41,4 +41,4 @@ It features:
 ---
 
 
-> Made with 🔧 by @karnx in #solder  
+> Made by @karnx in #solder  
