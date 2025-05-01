@@ -13,7 +13,6 @@ It features:
 - 🔘 A **pushbutton** that activates a **vibrating mini motor disc**
 - 🎛️ A **potentiometer** that controls the brightness of **two LEDs**
 
-It’s an analog circuit — no microcontroller needed — making it perfect for beginners practicing soldering and exploring hardware without programming.
 
 ---
 
